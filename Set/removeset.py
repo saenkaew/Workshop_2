@@ -11,7 +11,7 @@ print(thisset) # {'apple', 'cherry'}
 
 # EX3
 thisset = {"apple", "banana", "cherry"}
-x = thisset.pop()
+thisset.pop()
 print(thisset) # {'banana', 'cherry'}
 
 # EX4
